@@ -1,3 +1,5 @@
 let amigos = [];
 
-function agregarAmigo() {}
+function agregarAmigo() {
+    let guardarNombre = document.getElementById("amigo").value.trim();
+}
